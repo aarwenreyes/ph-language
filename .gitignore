@@ -1,0 +1,12 @@
+# Large generated files
+alpaca_tokenized.jsonl
+waray_train.jsonl
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# OS
+.DS_Store
+Thumbs.db
