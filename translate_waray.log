@@ -137,3 +137,20 @@
 2026-05-23 14:55:26,516 [INFO] Loaded 16 completed rows from checkpoint: checkpoint_waray_fil.jsonl
 2026-05-23 14:55:26,517 [INFO] 0 rows pending | 16 already done
 2026-05-23 14:55:26,517 [INFO] Building output CSV from 16 completed rows...
+2026-05-23 15:02:47,930 [INFO] Loading dataset: alpaca_waray_clean.csv
+2026-05-23 15:02:48,639 [INFO] Limiting to 15 rows
+2026-05-23 15:02:48,640 [INFO] Total rows in dataset: 15
+2026-05-23 15:02:48,641 [INFO] Loaded 16 completed rows from checkpoint: checkpoint_waray_fil.jsonl
+2026-05-23 15:02:48,641 [INFO] 0 rows pending | 16 already done
+2026-05-23 15:02:48,641 [INFO] Building output CSV from 16 completed rows...
+2026-05-23 15:03:05,804 [INFO] Loading dataset: alpaca_waray_clean.csv
+2026-05-23 15:03:06,466 [INFO] Limiting to 20 rows
+2026-05-23 15:03:06,466 [INFO] Total rows in dataset: 20
+2026-05-23 15:03:06,467 [INFO] Loaded 16 completed rows from checkpoint: checkpoint_waray_fil.jsonl
+2026-05-23 15:03:06,467 [INFO] 4 rows pending | 16 already done
+2026-05-23 15:03:11,503 [INFO] AFC is enabled with max remote calls: 10.
+2026-05-23 15:03:11,932 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 403 Forbidden"
+2026-05-23 15:03:11,934 [ERROR] API error on attempt 1: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Your API key was reported as leaked. Please use another API key.', 'status': 'PERMISSION_DENIED'}}
+2026-05-23 15:03:16,935 [INFO] AFC is enabled with max remote calls: 10.
+2026-05-23 15:03:17,381 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 403 Forbidden"
+2026-05-23 15:03:17,383 [ERROR] API error on attempt 2: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Your API key was reported as leaked. Please use another API key.', 'status': 'PERMISSION_DENIED'}}
