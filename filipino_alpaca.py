@@ -239,7 +239,7 @@ def main():
     if not api_key:
         raise ValueError(
             "Gemini API key not found.\n"
-            "Set it with:  export GEMINI_API_KEY=AIzaSyBL3WkUOWiJRmLh5zV88IhqSd9WQHT8DAA"
+            "Set it with:  export GEMINI_API_KEY=AIzaSyBF1Ywd_eboANyvuSFIBcOEAN-rUh2YIzM"
             "Get a free key at: https://aistudio.google.com/app/apikey"
         )
     client = genai.Client(api_key=api_key)

@@ -138,3 +138,111 @@ An mga pagsulod hin pulong ginagamit ha damo nga klase hin buruhaton han NLP, up
 Ang paggamit ng word embeddings ay nagpabago sa larangan ng Natural Language Processing, dahil pinapayagan nito ang mga computer na maunawaan ang teksto sa mas makabuluhang paraan kaysa sa pagtingin lamang sa presensya o kawalan ng mga indibidwal na salita. Halimbawa, kung gumagamit ng mga salitang input, mauunawaan ng computer na ang mga salitang ""aso"" at ""tuta"" ay malapit na magkakaugnay, habang ang mga salitang ""aso"" at ""payong"" ay hindi.
 
 Ang mga salitang input ay ginagamit sa maraming uri ng gawain sa NLP, kabilang ang pag-uuri ng teksto, pagsusuri ng damdamin, awtomatikong pagsasalin, pagkilala sa mga tinukoy na entidad, at marami pang iba. Ang mga ito ang batayan ng maraming advanced na pamamaraan sa pagproseso ng wika, tulad ng deep learning at awtomatikong pagsasalin ng utak.",FALSE
+Waray-Filipino,Ihulagway an buruhaton han motherboard han kompyuter .,Ilarawan ang tungkulin ng motherboard ng kompyuter.,,,"An motherboard, nga kilala gihapon nga mainboard o system board, amo an sentro nga printed circuit board ha kompyuter. Nagseserbi ini nga taludtod o pundasyon para hin usa nga kompyuter, nga nagdudugtong han ngatanan nga magkalainlain nga mga sangkap sugad han CPU, RAM, storage drive, expansion card, ngan mga peripheral. An motherboard amo an nagdudumara han komunikasyon ngan pagbalhin hin datos ha butnga hini nga mga sangkap, nga nagtutugot ha ira nga magtrabaho nga magkaupod ngan magbuhat han ira gintokahan nga mga buruhaton.
+
+An motherboard in naglalakip gihapon hin mga importante nga sirkito sugad han sirkito han pagregulasyon han kuryente nga naghahatag hin kuryente ngadto han iba-iba nga sangkap, ngan han generator han orasan nga nagdudugtong han operasyon hini nga mga sangkap. Naglalakip gihapon ini han BIOS (basic input/output system), nga usa nga firmware nga nagkokontrol han proseso han pagtikang ngan naghahatag hin interface para han pagkonfigurar ngan pagdumara han hardware han kompyuter. An iba pa nga mga bahin ha motherboard mahimo mag-upod hin mga kapasidad ha networking, audio, ngan video.
+
+Ha kabug-usan, an buruhaton han motherboard han kompyuter amo an paghatag hin plataporma para han pag-integrar ngan pagpadalagan han ngatanan nga magkalain-lain nga sangkap nga nagkukompwesto hin usa nga kompyuter, nga nagigin importante ini nga bahin han bisan ano nga sistema han pagkompyuter.","Ang motherboard, na kilala rin bilang mainboard o system board, ay ang pangunahing printed circuit board sa isang kompyuter. Ito ay nagsisilbing backbone o pundasyon ng isang kompyuter, na nag-uugnay sa lahat ng iba't ibang bahagi tulad ng CPU, RAM, storage drive, expansion card, at mga peripheral. Ang motherboard ang namamahala sa komunikasyon at paglilipat ng data sa pagitan ng mga bahaging ito, na nagpapahintulot sa kanila na magtulungan at maisagawa ang kanilang mga nakatalagang tungkulin.
+
+Kasama rin sa motherboard ang mga mahahalagang circuit tulad ng power regulation circuit na nagbibigay ng kuryente sa iba't ibang bahagi, at ang clock generator na nag-synchronize ng operasyon ng mga bahaging ito. Kasama rin dito ang BIOS (basic input/output system), na isang firmware na kumokontrol sa proseso ng pag-boot at nagbibigay ng interface para sa pag-configure at pamamahala ng hardware ng kompyuter. Ang iba pang mga feature sa motherboard ay maaaring magsama ng mga kakayahan sa networking, audio, at video.
+
+Sa kabuuan, ang tungkulin ng motherboard ng kompyuter ay magbigay ng isang plataporma para sa integrasyon at pagpapatakbo ng lahat ng iba't ibang bahagi na bumubuo sa isang kompyuter, na ginagawa itong isang mahalagang bahagi ng anumang sistema ng kompyuter.",FALSE
+Waray-Filipino,Pag-utro hini nga kodigo ngan pagdugang hin mga komento.,Isalin ang kodigong ito at magdagdag ng mga komento.,"def paghimo hin hinungdan (ihap):
+  faktoryal = 1
+  para ha ako ha sakop (1, ihap):
+    faktoryal *= ako
+  
+  balik nga faktoryal","def paghimo hin hinungdan (ihap):
+  faktoryal = 1
+  para ha ako ha sakop (1, ihap):
+    faktoryal *= ako
+  
+  balik nga faktoryal","""
+# Usa ini nga function nga nagkukuwenta han factorial han hinatag nga numero .
+def paghimo hin hinungdan (ihap):
+  # Ibutang an baryable nga 'faktoryal' ha 1 .
+  faktoryal = 1
+  # Pag-utro tikang ha 1 ngadto ha 'num' gamit an sakop nga funksyon .
+  para ha ako ha sakop (1, ihap):
+    # Pagdamo an 'factoryal' nga baryable ha yana nga numero ha pag-utro .
+    faktoryal *= ako
+  # Ibalik an katapusan nga kantidad han 'factorial'.
+  balik nga faktoryal
+""","""
+# Ito ay isang function na kinakalkula ang factorial ng ibinigay na numero.
+def paghimo hin hinungdan (ihap):
+  # Itakda ang variable na 'faktoryal' sa 1.
+  faktoryal = 1
+  # Ulitin mula 1 hanggang sa 'ihap' gamit ang sakop na function.
+  para ha ako ha sakop (1, ihap):
+    # Paramihin ang variable na 'faktoryal' sa kasalukuyang numero sa pag-ulit.
+    faktoryal *= ako
+  # Ibalik ang huling halaga ng 'faktoryal'.
+  balik nga faktoryal
+""",TRUE
+Waray-Filipino,Magduso hin etika nga solusyon ha problema han pribado nga datos .,Magbigay ng etikal na solusyon sa problema ng pribadong datos.,,,"Usa nga solusyon ha etika ha problema han pribado nga impormasyon amo an pagpatuman hin mas istrikto nga mga regulasyon ngan mga suruklan nga nagkikinahanglan nga magin klaro an mga kompanya kon paonan-o nira ginkokolekta, gintitipigan, ngan ginagamit an impormasyon han mga gumaramit. Karuyag sidngon, kinahanglan klaro nga igsumat han mga kompanya kun ano nga datos an ira ginkokolekta tikang ha mga gumaramit, kun kay ano nga kinahanglan nira ini nga datos, ngan kun paano nira plano gamiton ini. An mga gumaramit magkakaada liwat katungod ha pag-access, pagbag-o, ngan pagpara han ira mga datos ha anoman nga oras.
+
+Labot pa, kinahanglan unahon han mga kompanya an pagpatuman hin marig-on nga mga pitad panseguridad para maproteksyonan an mga datos han mga gumaramit tikang hin diri awtorisado nga pag-access ngan mga pagtalapas. Mahimo ini mag-upod hin mga pitad sugad han pag-enkripsyon, pagpamatuod han damu nga hinungdan, ngan regular nga mga pag-awdit ha seguridad. Kun mayda pagtalapas han data, kinahanglan may baratunon an mga kompanya ngan kinahanglan magpahibaro ha mga apektado nga gumaramit ha eksakto nga panahon.
+
+Dugang pa, an mga nagamit in kinahanglan tagan hin gahum nga magdesisyon nga may kahibaro mahitungod han ira mga datos ngan pribado nga kinabuhi. Makakab-ot ini pinaagi han pagpahibaro mahitungod han pribado nga impormasyon han mga datos ngan paghatag hin mga garamiton ngan mga rekurso basi mabuligan an mga indibiduwal nga mas maopay an pagdumara han ira personal nga impormasyon ha Internet.
+
+Ha katapusan, an pagsiguro han pribado nga datos in gin-aambit nga baratunon ha butnga han mga kompanya ngan mga gumaramit. An mga kompanya kinahanglan magin komitido ha pagbantay han mga datos han gumaramit, samtang an mga gumaramit kinahanglan magkaada aktibo nga bahin ha pagpanalipod han ira personal nga impormasyon. Pinaagi han pagbinuligay, makakahimo kita hin mas talwas ngan mas may etika nga talan-awon han datos.","Ang isang etikal na solusyon sa problema ng pribadong impormasyon ay ang pagpapatupad ng mas mahigpit na mga regulasyon at pamantayan na nangangailangan ng mga kumpanya na maging malinaw kung paano nila kinokolekta, iniimbak, at ginagamit ang impormasyon ng mga gumagamit. Nangangahulugan ito na dapat malinaw na sabihin ng mga kumpanya kung anong datos ang kanilang kinokolekta mula sa mga gumagamit, kung bakit nila kailangan ang datos na ito, at kung paano nila planong gamitin ito. Ang mga gumagamit ay magkakaroon din ng karapatang ma-access, baguhin, at burahin ang kanilang datos anumang oras.
+
+Bukod pa rito, dapat unahin ng mga kumpanya ang pagpapatupad ng matatag na mga hakbang sa seguridad upang maprotektahan ang datos ng mga gumagamit mula sa hindi awtorisadong pag-access at mga paglabag. Maaari itong magsama ng mga hakbang tulad ng encryption, multi-factor authentication, at regular na security audits. Kung mayroong paglabag sa datos, dapat managot ang mga kumpanya at dapat ipagbigay-alam sa mga apektadong gumagamit sa tamang oras.
+
+Higit pa rito, ang mga gumagamit ay dapat bigyan ng kapangyarihan na gumawa ng mga desisyon na may kaalaman tungkol sa kanilang datos at pribadong buhay. Maaari itong makamit sa pamamagitan ng pagbibigay-alam tungkol sa pribadong impormasyon ng datos at pagbibigay ng mga kasangkapan at mapagkukunan upang matulungan ang mga indibidwal na mas mahusay na pamahalaan ang kanilang personal na impormasyon sa Internet.
+
+Sa huli, ang pagtiyak ng pribadong datos ay isang pinagsasaluhang responsibilidad sa pagitan ng mga kumpanya at mga gumagamit. Ang mga kumpanya ay dapat maging nakatuon sa pagprotekta ng datos ng gumagamit, habang ang mga gumagamit ay dapat magkaroon ng aktibong bahagi sa pagprotekta ng kanilang personal na impormasyon. Sa pamamagitan ng pagtutulungan, makakalikha tayo ng mas ligtas at mas etikal na tanawin ng datos.",FALSE
+Waray-Filipino,"Paghimo hin tulo nga berbo nga pareho an kahulogan han ""pangaro hin pasaylo"".","Gumawa ng tatlong pandiwa na may parehong kahulugan ng ""humingi ng paumanhin"".",,,"1. Ha pagpahayag hin pagbasol .
+2. Ha pagtubos .
+3. Paghimo hin mga pag-ayad .","1. Sa pagpapahayag ng pagsisisi.
+2. Sa pagtubos.
+3. Paggawa ng mga pag-aayos.",FALSE
+Waray-Filipino,Ano an ginrirepresentaran han DNA?,Ano an ginrirepresentaran han DNA?,,,"An DNA amo an Deoksiribonukleiko nga Asido. Amo ini an molekula nga nagdadara han henetiko nga instruksyon nga ginagamit ha pagtubo, pag-uswag, pag-andar, ngan pagdamu han ngatanan nga buhi nga organismo.","Ang DNA ay Deoxyribonucleic Acid. Ito ang molekula na nagdadala ng mga henetikong instruksyon na ginagamit sa paglaki, pag-unlad, paggana, at pagpaparami ng lahat ng nabubuhay na organismo.",FALSE
+Waray-Filipino,Ikumpara ngan igtanding an Krisis han Misil han Cuba ngan an Gerra ha Vietnam.,Ikumpara ngan igtanding an Krisis han Misil han Cuba ngan an Gerra ha Vietnam.,,,"An Crisis han Misil han Cuba (1962) ngan an Gyera ha Vietnam (1955-1975) in duha nga importante nga panhitabo ha kaagi han US nga nahitabo dida han Matugnaw nga Gyera. Bisan kon an duha nga panhitabo ginkilala pinaagi han nagtikaduro nga tensyon butnga han Estados Unidos ngan Komunista nga mga gahum, may-ada ito pipira nga nangunguna nga mga kaibahan nga nagpapabulag ha ira.
+
+An Cuban Missile Crisis usa nga 13-adlaw nga pampulitika ngan militar nga pag-ato ha butnga han Estados Unidos ngan Unyon Sobyet tungod han pagbutang hin mga misil nukleyar han Sobyet ha Cuba, 90 ka milya la tikang ha baybayon han US. Ha kabaliktaran, an Gyera ha Vietnam usa nga maiha nga away nga inabot hin haros duha ka dekada, nga gin-apihan an US, South Vietnam, North Vietnam, ngan iba pa nga mga kaalyado nga Komunista. Resulta an gerra han pag-atentar han US nga pugngan an pagsarang han komunismo ha Sur-este nga Asya.
+
+An Krisis han Misil han Cuba in agsob nga ginkokonsidera nga pinakaharani ha kalibutan ha gerra nukleyar, kun diin an US ngan Unyon Sobyet in naabot ha ligid hin bug-os nga komprontasyon. Ha urhi, usa nga mahimyang nga resolusyon an nakab-ot, nga an Unyon Sobyet in umuyon nga kuhaon an mga misil tikang ha Cuba kabalyo han saad han US nga diri sumulong ha Cuba ngan sekreto nga kasarabutan nga kuhaon an mga misil han US tikang ha Turkey. Ha kabaliktaran, an Girra ha Vietnam nagresulta hin daku nga kabungkagan, nga minilyon an nawara, damu pa an nasamaran, ngan haluag nga kabungkagan han mga imprastraktura.
+
+Usa pa nga daku nga kaibahan han duha nga panhitabo amo an suporta ha panimalay. Dida han Cuban Missile Crisis, nagkamay-ada haluag nga suporta han publiko para han mga ginbuhat han gobyerno han Estados Unidos, ngan an pag-asikaso ni Pangulo Kennedy han sitwasyon in agsob gin-unabi nga usa han iya gidako-i nga mga nahimo. Kondi, an Girra ha Vietnam diri gud naruruyagan han publiko han Amerika, ngan padayon nga nagtikaduro an pagbati kontra ha girra ha paglabay han mga tuig. An gyera nagresulta hin dako nga pagkawara hin pagtoo ha gobyerno ngan militar han Estados Unidos, ngan ini in nahinunumduman pa gihapon nga usa han mga pinaka-nakabahin-bahin nga mga araway ha kasaysayan han Amerika.
+
+Ha pagtapos, samtang an Crisis han Misil han Cuba ngan an Gyera ha Vietnam pareho dagko nga mga panhitabo ha Mahagkot nga Gyera, magkaiba ini ha ira kahilawig, resulta, ngan suporta ha panimalay. An Crisis han Misil han Cuba in halipot, makusog nga pag-ato nga nasulbad hin mamurayaw, samtang an Gyera ha Vietnam in maiha nga araway nga nagresulta hin haluag nga pagkaguba ngan diri gud naruruyagan ha panimalay.","Ang Krisis ng Misil sa Cuba (1962) at ang Digmaan sa Vietnam (1955-1975) ay dalawang mahalagang kaganapan sa kasaysayan ng US na naganap noong Cold War. Bagaman ang dalawang kaganapan ay kinikilala sa lumalalang tensyon sa pagitan ng Estados Unidos at mga kapangyarihang Komunista, mayroon itong ilang pangunahing pagkakaiba na naghihiwalay sa kanila.
+
+Ang Cuban Missile Crisis ay isang 13-araw na pampulitika at militar na krisis sa pagitan ng Estados Unidos at Unyong Sobyet dahil sa paglalagay ng mga misil nukleyar ng Sobyet sa Cuba, 90 milya lamang mula sa baybayin ng US. Sa kabilang banda, ang Digmaan sa Vietnam ay isang matagal na labanan na tumagal ng halos dalawang dekada, kung saan ang US, South Vietnam, North Vietnam, at iba pang mga kaalyadong Komunista ay nakiisa. Ang digmaan ay resulta ng pagtatangka ng US na pigilan ang pagkalat ng komunismo sa Timog-silangang Asya.
+
+Ang Krisis ng Misil sa Cuba ay madalas na itinuturing na pinakamalapit sa digmaang nukleyar sa mundo, kung saan ang US at Unyong Sobyet ay napalapit sa ganap na komprontasyon. Sa huli, isang mapayapang resolusyon ang nakamit, kung saan sumang-ayon ang Unyong Sobyet na alisin ang mga misil mula sa Cuba kapalit ng pangako ng US na hindi sasakupin ang Cuba at isang lihim na kasunduan na alisin ang mga misil ng US mula sa Turkey. Sa kabilang banda, ang Digmaan sa Vietnam ay nagresulta sa malaking pagkawasak, na may milyun-milyong namatay, marami pang nasugatan, at malawakang pagkawasak ng mga imprastraktura.
+
+Isa pang malaking pagkakaiba sa dalawang kaganapan ay ang suporta sa loob ng bansa. Noong Cuban Missile Crisis, nagkaroon ng malawakang suporta ng publiko para sa mga aksyon ng gobyerno ng Estados Unidos, at ang paghawak ni Pangulong Kennedy sa sitwasyon ay madalas na binabanggit bilang isa sa kanyang pinakamalaking tagumpay. Gayunpaman, ang Digmaan sa Vietnam ay hindi kailanman naging popular sa publikong Amerikano, at patuloy na lumala ang sentimyento laban sa digmaan sa paglipas ng mga taon. Ang digmaan ay nagresulta sa malaking pagkawala ng tiwala sa gobyerno at militar ng Estados Unidos, at ito ay naaalala pa rin bilang isa sa mga pinaka-nakakahating labanan sa kasaysayan ng Amerika.
+
+Sa pagtatapos, habang ang Krisis ng Misil sa Cuba at ang Digmaan sa Vietnam ay parehong malalaking kaganapan sa Cold War, magkaiba sila sa kanilang tagal, resulta, at suporta sa loob ng bansa. Ang Krisis ng Misil sa Cuba ay isang maikli, matinding krisis na nalutas nang mapayapa, habang ang Digmaan sa Vietnam ay isang matagal na labanan na nagresulta sa malawakang pagkawasak at hindi naging popular sa loob ng bansa.",FALSE
+Waray-Filipino,Paghimo hin lista hin mga random nga pulong.,Gumawa ng listahan ng mga random na salita.,,,"Adi an lista hin napulo nga random nga mga pulong: 
+
+1. Pag-aragway
+2. Kahakog .
+3. Pag-adorno .
+4. Pag-alingawngaw
+5. Merkuriyal
+6. Pagsunog
+7. Diri nakakapoy .
+8. Malimbong .
+9. Paghulagway .
+10. Susbaranan","Narito ang listahan ng sampung random na salita:
+
+1. Pag-aaway
+2. Kasakiman.
+3. Pagpapalamuti.
+4. Alingawngaw
+5. Pabago-bago
+6. Pagsunog
+7. Hindi nakakapagod.
+8. Mapaglinlang.
+9. Paglalarawan.
+10. Halimbawa",FALSE
+Waray-Filipino,"Base han impormasyon nga iginhatag, isurat utro an tudling pinaagi han pagbag-o han tense hito tikang ha naglabay ngadto ha tidaraon.","Batay sa impormasyong ibinigay, isulat muli ang pangungusap sa pamamagitan ng pagbabago ng panahunan nito mula sa nakaraan patungo sa hinaharap.",Mahusay an iya pagtokar hin piano ha sulod hin mga oras ngan katapos inundang tungod kay katutnga na han gab-i.,Mahusay an iya pagtokar hin piano ha sulod hin mga oras ngan katapos inundang tungod kay katutnga na han gab-i.,Magpipiano hiya hin mahusay ha sulod hin mga oras ngan katapos maundang tungod kay katutnga na han gab-i.,Magpipiano hiya hin mahusay ha sulod hin mga oras ngan katapos maundang tungod kay katutnga na han gab-i.,TRUE
+Waray-Filipino,Hin-o an pinakasikat nga pintor ha kalibotan?,Sino ang pinakasikat na pintor sa mundo?,,,"An titulo han pinakasikat nga pintor ha kalibotan suhetibo ngan mahimo magkaiba-iba depende ha personal nga opinyon han usa nga indibiduwal. Kondi, gintatagad han damu nga mga tawo hi Leonardo da Vinci, usa nga bantogan nga artista han Renasimyento han Italya, sugad nga usa han pinakabantogan nga mga pintor ha kalibotan. Kilalado hiya tungod han iya mga iconico nga mga buhat lakip an ""Mona Lisa"" ngan ""An Kataposan nga Panihapon."" An iba nga mga bantogan nga mga pintor nga agsob gin-unabi nga upod han mga pinakasikat ha kalibutan nag-uupod hira Vincent van Gogh, Pablo Picasso, ngan Michelangelo.","Ang titulo ng pinakasikat na pintor sa mundo ay subhetibo at maaaring mag-iba-iba depende sa personal na opinyon ng isang indibidwal. Gayunpaman, itinuturing ng maraming tao si Leonardo da Vinci, isang kilalang artista ng Renaissance ng Italya, bilang isa sa mga pinakatanyag na pintor sa mundo. Kilala siya sa kanyang mga ikonikong obra kasama ang ""Mona Lisa"" at ""Ang Huling Hapunan."" Ang iba pang kilalang pintor na madalas binabanggit na kabilang sa mga pinakasikat sa mundo ay sina Vincent van Gogh, Pablo Picasso, at Michelangelo.",FALSE
+Waray-Filipino,Isaysay an konsepto han torko han pag-ipit.,Isaysay an konsepto han torko han pag-ipit.,,,"An cogging nga torque amo an torque nga nahihimo han interaksyon ha butnga han magnetic nga natad han stator (an diri-nakikig-upod nga sangkap ha de-koryente nga motor o generator) ngan han rotor (an naglilibot nga sangkap). Ini nga pakig-upod naghahatag hin magnetiko nga pagdani ha butnga han mga ngipon han stator ngan han mga poste han rotor. Ini nga senaryo in nagdudurot hin diri patas nga torko, nga nakakahimo han motor nga makaeksperyensya hin pag-uyog nga pagkiwa imbes nga hapsay nga pagtuyok.
+
+An cogging torque in panguna nga naeksperyensyahan ha mga motor nga mayda damo nga pagliko ha rotor ngan stator windings ngan kun an motor mayda gutiay nga gap ha hangin. An epekto han pag-uyog mahimo maibanan pinaagi han pag-ipit han mga buho han stator o rotor o pinaagi han pagpili han kadamu han mga buho han stator ngan rotor uyon hito. An husto nga disenyo nakakaiban han torko han pag-uyog, salit nagriresulta ito hin hapsay ngan padayon nga pagtuyok.","Ang cogging torque ay ang torque na nalilikha ng interaksyon sa pagitan ng magnetic field ng stator (ang hindi gumagalaw na bahagi sa isang de-koryenteng motor o generator) at ng rotor (ang umiikot na bahagi). Ang interaksyong ito ay lumilikha ng magnetic attraction sa pagitan ng mga ngipin ng stator at ng mga poste ng rotor. Ang senaryong ito ay nagreresulta sa hindi pantay na torque, na nagiging sanhi ng pag-alog ng motor sa halip na maayos na pag-ikot.
+
+Ang cogging torque ay pangunahing nararanasan sa mga motor na may maraming liko sa mga rotor at stator windings at kapag ang motor ay may maliit na air gap. Ang epekto ng pag-alog ay maaaring mabawasan sa pamamagitan ng pag-align ng mga puwang ng stator o rotor o sa pamamagitan ng pagpili ng bilang ng mga puwang ng stator at rotor nang naaayon. Ang tamang disenyo ay nakakabawas sa torque ng pag-alog, kaya nagreresulta ito sa maayos at tuluy-tuloy na pag-ikot.",FALSE
