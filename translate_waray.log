@@ -87,3 +87,53 @@
 2026-05-23 14:27:26,515 [INFO] AFC is enabled with max remote calls: 10.
 2026-05-23 14:27:26,686 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 429 Too Many Requests"
 2026-05-23 14:27:26,687 [WARNING] Rate limit hit (attempt 4) — waiting 480s
+2026-05-23 14:41:58,125 [INFO] Loading dataset: alpaca_waray_clean.csv
+2026-05-23 14:41:59,332 [INFO] Limiting to 10 rows
+2026-05-23 14:41:59,333 [INFO] Total rows in dataset: 10
+2026-05-23 14:41:59,334 [INFO] Loaded 16 completed rows from checkpoint: checkpoint_waray_fil.jsonl
+2026-05-23 14:41:59,335 [INFO] 0 rows pending | 16 already done
+2026-05-23 14:41:59,335 [INFO] Building output CSV from 16 completed rows...
+2026-05-23 14:42:37,616 [INFO] Loading dataset: alpaca_waray_clean.csv
+2026-05-23 14:42:38,296 [INFO] Limiting to 10 rows
+2026-05-23 14:42:38,296 [INFO] Total rows in dataset: 10
+2026-05-23 14:42:38,297 [INFO] Loaded 16 completed rows from checkpoint: checkpoint_waray_fil.jsonl
+2026-05-23 14:42:38,297 [INFO] 0 rows pending | 16 already done
+2026-05-23 14:42:38,297 [INFO] Building output CSV from 16 completed rows...
+2026-05-23 14:43:30,393 [INFO] Loading dataset: alpaca_waray_clean.csv
+2026-05-23 14:43:33,655 [INFO] Limiting to 10 rows
+2026-05-23 14:43:33,658 [INFO] Total rows in dataset: 10
+2026-05-23 14:43:33,671 [INFO] Loaded 16 completed rows from checkpoint: checkpoint_waray_fil.jsonl
+2026-05-23 14:43:33,672 [INFO] 0 rows pending | 16 already done
+2026-05-23 14:43:33,673 [INFO] Building output CSV from 16 completed rows...
+2026-05-23 14:47:57,420 [INFO] Loading dataset: alpaca_waray_clean.csv
+2026-05-23 14:47:58,445 [INFO] Limiting to 20 rows
+2026-05-23 14:47:58,445 [INFO] Total rows in dataset: 20
+2026-05-23 14:47:58,447 [INFO] Loaded 16 completed rows from checkpoint: checkpoint_waray_fil.jsonl
+2026-05-23 14:47:58,447 [INFO] 4 rows pending | 16 already done
+2026-05-23 14:48:03,477 [INFO] AFC is enabled with max remote calls: 10.
+2026-05-23 14:48:03,929 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 403 Forbidden"
+2026-05-23 14:48:03,933 [ERROR] API error on attempt 1: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Your API key was reported as leaked. Please use another API key.', 'status': 'PERMISSION_DENIED'}}
+2026-05-23 14:48:08,937 [INFO] AFC is enabled with max remote calls: 10.
+2026-05-23 14:48:09,267 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 403 Forbidden"
+2026-05-23 14:48:09,269 [ERROR] API error on attempt 2: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Your API key was reported as leaked. Please use another API key.', 'status': 'PERMISSION_DENIED'}}
+2026-05-23 14:48:14,270 [INFO] AFC is enabled with max remote calls: 10.
+2026-05-23 14:48:14,664 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-05-23 14:48:14,666 [WARNING] Rate limit hit (attempt 3) — waiting 240s
+2026-05-23 14:53:06,394 [INFO] Loading dataset: alpaca_waray_clean.csv
+2026-05-23 14:53:07,274 [INFO] Limiting to 10 rows
+2026-05-23 14:53:07,274 [INFO] Total rows in dataset: 10
+2026-05-23 14:53:07,276 [INFO] Loaded 16 completed rows from checkpoint: checkpoint_waray_fil.jsonl
+2026-05-23 14:53:07,276 [INFO] 0 rows pending | 16 already done
+2026-05-23 14:53:07,276 [INFO] Building output CSV from 16 completed rows...
+2026-05-23 14:53:41,194 [INFO] Loading dataset: alpaca_waray_clean.csv
+2026-05-23 14:53:42,403 [INFO] Limiting to 10 rows
+2026-05-23 14:53:42,404 [INFO] Total rows in dataset: 10
+2026-05-23 14:53:42,405 [INFO] Loaded 16 completed rows from checkpoint: checkpoint_waray_fil.jsonl
+2026-05-23 14:53:42,405 [INFO] 0 rows pending | 16 already done
+2026-05-23 14:53:42,406 [INFO] Building output CSV from 16 completed rows...
+2026-05-23 14:55:25,614 [INFO] Loading dataset: alpaca_waray_clean.csv
+2026-05-23 14:55:26,513 [INFO] Limiting to 10 rows
+2026-05-23 14:55:26,514 [INFO] Total rows in dataset: 10
+2026-05-23 14:55:26,516 [INFO] Loaded 16 completed rows from checkpoint: checkpoint_waray_fil.jsonl
+2026-05-23 14:55:26,517 [INFO] 0 rows pending | 16 already done
+2026-05-23 14:55:26,517 [INFO] Building output CSV from 16 completed rows...
